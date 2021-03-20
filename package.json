@@ -1,8 +1,10 @@
 {
   "name": "js",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "axios": ">=0.21.1" 
+  },
   "devDependencies": {
-    "axios": "^0.19.2"
+  
   }
 }
